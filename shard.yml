@@ -1,0 +1,9 @@
+name: crystal_fnv
+version: 0.1.0
+
+authors:
+  - Pawan Dubey <hi@pawandubey.com>
+
+crystal: 0.22.0
+
+license: MIT
