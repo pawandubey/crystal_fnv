@@ -18,14 +18,14 @@ dependencies:
 require "crystal_fnv"
 
 # For FNV-1
-hash = CrystalFnv::Hash.fnv1(item, size: 32)
+hash = CrystalFnv::Hash.fnv_1(item, size: 32)
 
-hash_64 = CrystalFnv::Hash.fnv1(item, size: 64)
+hash_64 = CrystalFnv::Hash.fnv_1(item, size: 64)
 
 # For FNV-1a
-hash = CrystalFnv::Hash.fnv1a(item, size: 32)
+hash = CrystalFnv::Hash.fnv_1a(item, size: 32)
 
-hash_64 = CrystalFnv::Hash.fnv1a(item, size: 64)
+hash_64 = CrystalFnv::Hash.fnv_1a(item, size: 64)
 ```
 ## Contributing
 
