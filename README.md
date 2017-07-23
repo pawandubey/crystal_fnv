@@ -1,6 +1,6 @@
 # crystal_fnv
 
-FNV-hash algorithms for Crystal Lang
+FNV-hash algorithms for [Crystal Lang](https://crystal-lang.org)
 
 ## Installation
 
